@@ -1,0 +1,112 @@
+.container {
+    padding-top: 50px; 
+    width: 100%; 
+    max-width: 100%; 
+}
+
+/* Footer section */
+footer {
+    background-color: #d1d1d19e; 
+    padding: 10px 0; 
+}
+
+
+/* Email input */
+footer input[type="email"] {
+    width: 100%; 
+    padding: 10px; 
+    border-radius: 5px; 
+    border: 2px solid #EC731A; 
+}
+
+/* Subscribe button */
+footer .footerbutton {
+    background-color: #EC731A; 
+    color: #000000; 
+    border-radius: 5px; 
+    padding: 10px 20px; 
+    transition: background-color 0.3s; /* transition */
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+/* Hover effect for Subscribe */
+footer .footerbutton:hover {
+    background-color: #FDCA82;
+    border-color: #EC731A;
+}
+
+/* Website links */
+footer .footerlinks {
+    color: #000000; 
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    padding: 10px 10px; 
+    transition: color 0.3s, background-color 0.3s; 
+    background-color: #EC731A; 
+    border-color: #EC731A;
+    border-radius: 5px;
+    margin-bottom: 50px;
+}
+
+/* Hover for website links */
+footer .footerlinks:hover {
+    color: #000000; 
+    background-color: #FDCA82;
+    border-color: #EC731A;
+}
+
+/* Social media links */
+footer .btn-floating {
+    color: #000000; 
+    background-color: #EC731A; 
+    padding: 10px;
+}
+
+
+/* Centralised the placeholder text */
+.form-control::placeholder {
+    text-align: center;
+}
+
+.nav-link.text-dark {
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.searchbutton {
+    background-color: #EC731A;
+    color: #000000; 
+    border-color: #EC731A;
+
+}
+
+.searchbutton:hover {
+    background-color: #FDCA82;
+    border-color: #EC731A;
+    color: #000000; 
+}
+
+.btn-addtobasket {
+    background-color: #EC731A;
+    border-color: #EC731A;
+    color: #000000; 
+}
+
+.btn-addtobasket:hover {
+    background-color: #FDCA82;
+    border-color:#EC731A;;
+    color: #000000; 
+}
+
+/*product box*/
+.orange-shadow {
+    box-shadow: 0px 4px 8px rgb(255, 145, 0); 
+}
+
+
+
+.bg-bar {
+    background-color: #EC731A;
+}
