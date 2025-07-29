@@ -1,5 +1,10 @@
 # E-Commerce Website for Affordable Children's Clothes (University Project)
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a9196def-9058-43c3-95f2-0d68bdcbf4ca" alt="development_gif" />
+</p>
+
+
 ## 📖 Overview  
 This university project involved creating an **e-commerce website** for a client selling affordable children's clothes on **TikTok Shop**. The aim was to include as many features as possible, though the project is unfinished.  
 
